@@ -27,8 +27,8 @@ function showImage(data){
   <h2>${data.title}</h2>
   <div class="navigation">
     <h6 class="navigation-text">Use <span class="navigation-text-bold">Arrow Right</span> to navigate</h6>
-    <img class="navigation-icon" src="/svg/chevron-right.svg">
-    <img class="navigation-icon-sm" src="/svg/chevron-right.svg">
+    <img class="navigation-icon" src="svg/chevron-right.svg">
+    <img class="navigation-icon-sm" src="svg/chevron-right.svg">
   </div>
   `;
 }
